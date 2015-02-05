@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ComboList>
+  <Strikes 
+  Combo0="PPPP0" 
+  Combo1="PKP0" 
+  Combo2="KKK0"
+  Combo3="PPPK0"
+  Combo4="KPK0"
+  Combo5= "PPKK0"
+  />
+</ComboList>
